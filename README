@@ -1,0 +1,14 @@
+
+
+use curl to test paste.deploy
+
+
+curl localhost:8088
+
+curl localhost:8088/test
+
+curl "localhost:8088/version?username=root&password=123" -H X-Auth-Token:bluefire1991
+
+curl "localhost:8088/auther?username=root&password=123" -H X-Auth-Token:bluefire1991
+
+curl localhost:8088/router/spch
