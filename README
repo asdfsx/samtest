@@ -1,4 +1,12 @@
+in the repositry
 
+we use pbr to manage the setup process
+
+use paste.deploy to create a restful api server
+
+use stevdore to import different library
+
+For testing
 
 use curl to test paste.deploy
 
